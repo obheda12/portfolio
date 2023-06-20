@@ -1,4 +1,4 @@
-![spearbit_wordmark_black_1000x250](https://user-images.githubusercontent.com/47452703/185383652-9a1adea9-1f7a-49c6-ba20-eac179cd87c4.png)
+![spearbit_wordmark_black_1000x250](ARMORY (2).png)
 
 <p align="center">
   learn more at
