@@ -1,8 +1,8 @@
 ![ARMORY](https://github.com/obheda12/portfolio/blob/master/ARMORY%20(2).png)
 
 <p align="center">
-  learn more about us at
-  <a href="https://spearbit.com">spearbit.com</a>
+  request a security review at
+  <a href="https://airtable.com/shrkxrtMKYJkLaXhT">spearbit.com</a>
 </p>
 
 <br>
