@@ -97,15 +97,3 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [**Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk**](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| |--|
 | [**Understanding Bridge Security with Connext's Arjun Bhuptani**](https://www.youtube.com/watch?v=gQzRpU6GYhc)| |--|
 | [**How to Foundry**](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| |
-
-<br>
-
-## Core Team
-- [Jake Lang](https://twitter.com/jake_theripper)
-- [Spencer MacDonald](https://twitter.com/SpencerMac101)
-- [Alex Beregszaszi](https://twitter.com/alexberegszaszi)
-- [Harikrishnan Mulackal](https://twitter.com/_hrkrshnn)
-- [Jake Lynch](https://twitter.com/lakejynch)
-- [Pablo Misirov](https://twitter.com/p_misirov)
-- [Moise Igeno](https://twitter.com/moise__)
-- [Mike Leffer](https://twitter.com/mikeleffer)
