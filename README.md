@@ -1,4 +1,4 @@
-![spearbit_wordmark_black_1000x250](ARMORY (2).png)
+!([ARMORY (2).png](https://github.com/obheda12/portfolio/blob/master/ARMORY%20(2).png))
 
 <p align="center">
   learn more at
