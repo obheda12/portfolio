@@ -27,8 +27,6 @@ This section contains all externally available educational material from Spearbi
 
 We believe in elevating the standard for security research and thus our content will reflect the same.
 
-<br>
-
 <h3><ins>Table of Contents</ins></h3>
 
 - [Content Overview](#Content)
