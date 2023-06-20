@@ -21,8 +21,7 @@ If you have any urgent needs or would prefer a direct contact, please reach out 
 
 Spearbit is a decentralized network of expert security engineers offering reviews and other security related services to Web3 projects with the goal of creating a stronger ecosystem. Our network has experience on every part of the blockchain technology stack, including but not limited to protocol design, smart contracts and the Solidity compiler. Spearbit brings in untapped security talent by enabling expert freelance auditors seeking flexibility to work on interesting projects together.
 
-<h3><ins>Table of Contents</ins></h3>
-
+# Table of Contents
 - [Content Overview](#Content)
 - [Spearbit Tips](#Spearbit-Tips)
 - [Report and Findings Breakdowns](#Report-and-Finding-Breakdowns)
