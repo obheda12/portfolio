@@ -1,12 +1,17 @@
 ![spearbit_wordmark_black_1000x250](https://user-images.githubusercontent.com/47452703/185383652-9a1adea9-1f7a-49c6-ba20-eac179cd87c4.png)
 
 <p align="center">
-  Request an audit by filling <a href="https://airtable.com/shrkxrtMKYJkLaXhT"> this form</a> or learn more at
+  learn more at
   <a href="https://spearbit.com">Spearbit.com</a>
 </p>
 
 <br>
 
+<h1 class="center" style=""> Request a Security Review </h1>
+
+Please fill out the following [form](https://airtable.com/shrkxrtMKYJkLaXhT) or contact our COO at mike@spearbit.com
+
+<br>
 
 
 <h1 class="center" style=""> Public Portfolio </h1>
