@@ -88,7 +88,19 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [Community Workshop: Zach Obront](https://youtu.be/PPfhIiclupc) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
 | [How to Foundry 2.0](https://youtu.be/EHrvD5c93JU) |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
 | [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf)
-
+| [ZK Series: Intro with Porter Adams]([https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s](https://youtu.be/QXdoMPzmEbE)) | [Write-up]([https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing](https://paragraph.xyz/@spearbit/demystifying-zkps-with-porter-adams)) | [Slides](https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf) |
+| [Community Workshop: Riley Holterhus](https://www.youtube.com/watch?v=_pO2jDgL0XE) | | [Slides](/content/slides/Spearbit_Maple_Workshop.pdf) |
+| [EVM Seminar: 7 things about the EVM](https://www.youtube.com/watch?v=XhfaG6cYulU)| | [Slides](https://hackmd.io/@axic/7-things-about-the-evm#/)|
+| [OpenSeacurity with Spearbit](https://www.youtube.com/watch?v=6snnoEI82N8)| | [Show notes](https://pastebin.com/cv9qdCnd) |
+| [The Bridge Risk Framework Seminar](https://www.youtube.com/watch?v=JVNgsmEc5Lk)| | [L2 Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31/1) |
+| [Fuzzing Tools Series: Certora Prover](https://www.youtube.com/watch?v=9Gal-on-06E)| | -- |
+| [Fuzzing Tools Series: Echidna](https://www.youtube.com/watch?v=kAfknRlvAt0)|[Echidna Spearbit Demo](https://github.com/spearbit/echidna-spearbit-demo)| |
+| [Forta Introduction Seminar](https://www.youtube.com/watch?v=q8EDhheiEqA) | | -- |
+| [Simple Security Toolkit Walkthrough](https://www.youtube.com/watch?v=fir0-YiPtrE) |[Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)|
+| [Spearbit at TrustX: Languages](https://www.youtube.com/watch?v=mFTAF8gNWz8)| |--|
+| [Spearbit at TrustX: Simplify Solidity Code with Sorted Contracts and Security Risk](https://www.youtube.com/watch?v=NmSGA8X2Tcw)| |--|
+| [Understanding Bridge Security with Connext's Arjun Bhuptani](https://www.youtube.com/watch?v=gQzRpU6GYhc)| |--|
+| [How to Foundry](https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s)|[Foundry Book](https://book.getfoundry.sh)| |
 
 <br>
 
