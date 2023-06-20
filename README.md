@@ -48,31 +48,31 @@ Spearbit Tips is a weekly initiative to introduce alpha for security researchers
 
 | Title | Written Breakdown |
 | --- | --- |
-| Reviewing Optimized Yul | https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20 |
-| Proper Code Specification | https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20 |
-| Clearly Defined Natspec | https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20 |
-| Verification Patterns | https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20 |
+| Reviewing Optimized Yul | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
+| Proper Code Specification | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
+| Clearly Defined Natspec | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
+| Verification Patterns | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 
 ## Report and Finding Breakdowns
 
 These breakdowns are concise and guided write-ups of findings from some of Spearbit’s top researchers. Study them intently in order to extract the process and perspective of some of the best researchers in the game.
 
-| Title | Protocol | Written Breakdown | Full Report Link |
-| --- | --- | --- | --- |
-| Critical Risk due to Aave v3 Dependency | Morpho Labs and Aave | https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw | https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf |
-| Critical Risk due to Balancer Dependency | Aera Finance and Balancer | https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw | https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf |
-| Critical Risk in “Clones-with-immutable-args” from improper Bytes Validation | Sudoswap | https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw | https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf |
+| Title | Risk | Protocol(s) | Written Breakdown | Full Report Link |
+| --- | --- | --- | --- | --- |
+| Aave v3 Dependency | Critical | Morpho Labs and Aave | [Breakdown](https://twitter.com/spearbitdao/status/1658556015762190340?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Morpho-Av3-Spearbit-Security-Review.pdf) |
+| Balancer Dependency | Critical | Aera Finance and Balancer | [Breakdown](https://twitter.com/spearbitdao/status/1664726990618869762?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Gauntlet-Spearbit-Security-Review.pdf) |
+| “Clones-with-immutable-args” and improper Bytes Validation | Critical | Sudoswap | [Breakdown](https://twitter.com/spearbitdao/status/1669088951238311943?s=61&t=odD0HwfZADCE1BwiBs6wlw) | [Full Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Sudoswap-Spearbit-Security-Review.pdf) |
 
 ## Researcher Spotlights
 
 These spotlights serve to highlight the gems of the web3 security company working over at Spearbit. We have titans of the blockchains security community on our team that have a treasure trove of information to gain from studying their respective journeys.
 
-| Name | Written Breakdown |
+| Name | Spotlight |
 | --- | --- |
-| @cmichelio  | https://twitter.com/spearbitdao/status/1660717529830924309?s=61&t=odD0HwfZADCE1BwiBs6wlw |
-| @NoahMarconi | https://twitter.com/spearbitdao/status/1663653330575556608?s=61&t=odD0HwfZADCE1BwiBs6wlw |
-| @0xLeastwood | https://twitter.com/spearbitdao/status/1666137357442068510?s=61&t=odD0HwfZADCE1BwiBs6wlw |
-| @0xRajeev | https://twitter.com/spearbitdao/status/1670870725631123456?s=61&t=odD0HwfZADCE1BwiBs6wlw |
+| @cmichelio  | [Breakdown](https://twitter.com/spearbitdao/status/1660717529830924309?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| @NoahMarconi | [Breakdown](https://twitter.com/spearbitdao/status/1663653330575556608?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| @0xLeastwood | [Breakdown](https://twitter.com/spearbitdao/status/1666137357442068510?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
+| @0xRajeev | [Breakdown](https://twitter.com/spearbitdao/status/1670870725631123456?s=61&t=odD0HwfZADCE1BwiBs6wlw) |
 
 ## Seminars and Breakdowns
 
