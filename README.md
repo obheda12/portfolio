@@ -78,32 +78,20 @@ These spotlights serve to highlight the gems of the web3 security company workin
 
 | Title | Written Breakdown | Additional Resources |
 | --- | --- | --- |
-| https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s | https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing | — |
-| https://www.youtube.com/watch?v=sfgassm8SKw&t=692s |  | — |
-| https://www.youtube.com/watch?v=rLvu61DA-hk |  | — |
-| https://youtu.be/9sbUCjfM6P4 |  | — |
-| https://youtu.be/7_5hbOFGJM8 | https://paragraph.xyz/@spearbit/numerical-analysis | https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf |
-| https://youtu.be/_E5juBbF9s4 |  | https://github.com/spearbit/portfolio/blob/master/content/slides/Thinking_Through_Economic_Security.pdf |
-| https://youtu.be/VhUUUN8Z-jw |  | https://youtu.be/VhUUUN8Z-jw |
-| https://youtu.be/LbrkzgoDR0g |  | https://github.com/spearbit/portfolio/blob/master/content/slides/Deep_Dive_Into_Seaport.pdf |
-| https://youtu.be/BwkNQWM32y0 |  | https://github.com/spearbit/portfolio/blob/master/content/slides/Optimal_Frontrunning_Attacks_and_How_to_Stop_Them_2.pdf |
-| https://youtu.be/oIw6DG75-z4 |  | https://github.com/spearbit/portfolio/blob/master/content/slides/From%20Exploit%20to%20Recovery_%20Unraveling%20DeFi%20Incidents.pdf |
-| https://youtu.be/PPfhIiclupc |  | https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf |
-| https://youtu.be/EHrvD5c93JU |  | https://github.com/nascentxyz/How-to-Foundry |
-| https://www.youtube.com/watch?v=Rfaabjj7n9k |  | https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf, https://github.com/devtooligan/huff-spearbit-demo |
-| https://www.youtube.com/watch?v=QXdoMPzmEbE | https://paragraph.xyz/@spearbit/demystifying-zkps-with-porter-adams | https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf |
-| https://www.youtube.com/watch?v=_pO2jDgL0XE |  | https://www.notion.so/content/slides/Spearbit_Maple_Workshop.pdf |
-| https://www.youtube.com/watch?v=XhfaG6cYulU |  | https://hackmd.io/@axic/7-things-about-the-evm#/ |
-| https://www.youtube.com/watch?v=6snnoEI82N8 |  | https://pastebin.com/cv9qdCnd |
-| https://www.youtube.com/watch?v=JVNgsmEc5Lk |  | https://gov.l2beat.com/t/l2bridge-risk-framework/31/1 |
-| https://www.youtube.com/watch?v=9Gal-on-06E |  | -- |
-| https://www.youtube.com/watch?v=kAfknRlvAt0 |  | https://github.com/spearbit/echidna-spearbit-demo |
-| https://www.youtube.com/watch?v=q8EDhheiEqA |  | -- |
-| https://www.youtube.com/watch?v=fir0-YiPtrE |  | https://github.com/nascentxyz/simple-security-toolkit |
-| https://www.youtube.com/watch?v=mFTAF8gNWz8 |  | -- |
-| https://www.youtube.com/watch?v=NmSGA8X2Tcw |  | -- |
-| https://www.youtube.com/watch?v=gQzRpU6GYhc |  | -- |
-| https://www.youtube.com/watch?v=Rp_V7bYiTCM&t=2s |  | https://book.getfoundry.sh/ |
+| [Arbiter - EVM logic simulator for security and performance testing](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Link](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
+| [WhatsABI? with Shazow](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) |  | — |
+| [Circuit Safety and an Introduction to Noir with Maddiaa & Maxim (Aztec Network)](https://www.youtube.com/watch?v=rLvu61DA-hk) |  | — |
+| [Community Workshop: Clober by Hickup](https://youtu.be/9sbUCjfM6P4) |  | — |
+| [Numerical Analysis for DeFi Audits: Kurt Barry](https://youtu.be/7_5hbOFGJM8) | [Link](https://paragraph.xyz/@spearbit/numerical-analysis) | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf) |
+| [Economic Security with fmrmf](https://youtu.be/_E5juBbF9s4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Thinking_Through_Economic_Security.pdf) |
+| [Security Education and Assessment Lab with Rajeev](https://youtu.be/VhUUUN8Z-jw) |  | [Link](https://youtu.be/VhUUUN8Z-jw) |
+| [Deep Dive Into Seaport with 0age](https://youtu.be/LbrkzgoDR0g) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Deep_Dive_Into_Seaport.pdf) |
+| [Optimal Front Running Attacks & How to Stop Them with Max Resnick](https://youtu.be/BwkNQWM32y0) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Optimal_Frontrunning_Attacks_and_How_to_Stop_Them_2.pdf) |
+| [From Exploit to Recovery: Unraveling DeFi Incidents with Spreek](https://youtu.be/oIw6DG75-z4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/From%20Exploit%20to%20Recovery_%20Unraveling%20DeFi%20Incidents.pdf) |
+| [Community Workshop: Zach Obront](https://youtu.be/PPfhIiclupc) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
+| [How to Foundry 2.0](https://youtu.be/EHrvD5c93JU) |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
+| [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf), [Link2](https://github
+
 
 
 <br>
