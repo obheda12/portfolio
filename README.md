@@ -101,7 +101,7 @@ These spotlights serve to highlight the gems of the web3 security company workin
 <br>
 
 ## Core Team
-*Have any questions? Reach out to the core team directly at core-team [at] spearbit [dot] com !*
+*Have any questions? Reach out to the core team directly below:
 - [Jake Lang](https://twitter.com/jake_theripper)
 - [Spencer MacDonald](https://twitter.com/SpencerMac101)
 - [Alex Beregszaszi](https://twitter.com/alexberegszaszi)
