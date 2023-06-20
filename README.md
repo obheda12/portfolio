@@ -25,11 +25,11 @@ Spearbit is a decentralized network of expert security engineers offering review
 
 <h3><ins>Table of Contents</ins></h3>
 
-- [Engagements](#Content)
-- [Competitions](#Spearbit-Tips)
-- [Responsible Disclosures](#Report-and-Finding-Breakdowns)
-- [Content](#Researcher-Spotlights)
-- [Spearbook](#Seminars-and-Breakdowns)
+- [Content Overview](#Content)
+- [Spearbit Tips](#Spearbit-Tips)
+- [Report and Findings Breakdowns](#Report-and-Finding-Breakdowns)
+- [Researcher Spotlights](#Researcher-Spotlights)
+- [Seminars and Breakdowns](#Seminars-and-Breakdowns)
 - [Core Team](#Core-Team)
 
 
