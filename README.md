@@ -43,12 +43,12 @@ We believe in elevating the standard for security research and thus our content 
 
 Spearbit Tips is a weekly initiative to introduce alpha for security researchers and developers in order to support knowledge sharing across the web3 security ecosystem and continue raising the bar in our industry.
 
-| Title | Written Breakdown |
-| --- | --- |
-| Reviewing Optimized Yul | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
-| Proper Code Specification | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
-| Clearly Defined Natspec | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
-| Verification Patterns | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
+# | Title | Written Breakdown |
+| --- | --- | --- |
+1 | Reviewing Optimized Yul | [Write-up](https://twitter.com/SpearbitDAO/status/1661151785053192192?s=20) |
+2 | Proper Code Specification | [Write-up](https://twitter.com/SpearbitDAO/status/1661786772072804361?s=20) |
+3 | Clearly Defined Natspec | [Write-up](https://twitter.com/SpearbitDAO/status/1665800702122250241?s=20) |
+4 | Verification Patterns | [Write-up](https://twitter.com/SpearbitDAO/status/1669764226011856906?s=20) |
 
 ## Report and Finding Breakdowns
 
