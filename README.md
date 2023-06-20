@@ -37,10 +37,7 @@ We believe in elevating the standard for security research and thus our content 
 - [Core Team](#Core-Team)
 
 
-<hr>
 <br>
-
-
 
 ## Spearbit Tips
 
