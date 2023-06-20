@@ -78,11 +78,11 @@ These spotlights serve to highlight the gems of the web3 security company workin
 
 | Title | Written Breakdown | Additional Resources |
 | --- | --- | --- |
-| [Arbiter - EVM logic simulator for security and performance testing](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Link](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
+| [Arbiter - EVM logic simulator for security and performance testing](https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s) | [Write-up](https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | — |
 | [WhatsABI? with Shazow](https://www.youtube.com/watch?v=sfgassm8SKw&t=692s) |  | — |
 | [Circuit Safety and an Introduction to Noir with Maddiaa & Maxim (Aztec Network)](https://www.youtube.com/watch?v=rLvu61DA-hk) |  | — |
 | [Community Workshop: Clober by Hickup](https://youtu.be/9sbUCjfM6P4) |  | — |
-| [Numerical Analysis for DeFi Audits: Kurt Barry](https://youtu.be/7_5hbOFGJM8) | [Link](https://paragraph.xyz/@spearbit/numerical-analysis) | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf) |
+| [Numerical Analysis for DeFi Audits: Kurt Barry](https://youtu.be/7_5hbOFGJM8) | [Write-up](https://paragraph.xyz/@spearbit/numerical-analysis) | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Numerical%20Reasoning%20For%20DeFi%20Audits.pdf) |
 | [Economic Security with fmrmf](https://youtu.be/_E5juBbF9s4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Thinking_Through_Economic_Security.pdf) |
 | [Security Education and Assessment Lab with Rajeev](https://youtu.be/VhUUUN8Z-jw) |  | [Link](https://youtu.be/VhUUUN8Z-jw) |
 | [Deep Dive Into Seaport with 0age](https://youtu.be/LbrkzgoDR0g) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Deep_Dive_Into_Seaport.pdf) |
