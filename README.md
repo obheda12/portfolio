@@ -25,7 +25,7 @@ Spearbit is a decentralized network of expert security engineers offering review
 
 This section contains all externally available educational material from Spearbit. The goal of publicizing and creating content like this is to provide security researchers with material beyond the current saturated baseline of beginner security material. 
 
-We believe in elevating the standard for security research and thus our content will reflect the same.
+We believe in elevating the standard for security research, thus our content will reflect the same.
 
 <h3><ins>Table of Contents</ins></h3>
 
