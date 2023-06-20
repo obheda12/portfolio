@@ -25,12 +25,12 @@ Spearbit is a decentralized network of expert security engineers offering review
 
 <h3><ins>Table of Contents</ins></h3>
 
-- [Engagements](#engagements)
-- [Competitions](#competitions)
-- [Responsible Disclosures](#responsible-disclosure)
-- [Content](#content)
-- [Spearbook](#spearbook)
-- [Core Team](#core-team)
+- [Engagements](#Content)
+- [Competitions](#Spearbit-Tips)
+- [Responsible Disclosures](#Report-and-Finding-Breakdowns)
+- [Content](#Researcher-Spotlights)
+- [Spearbook](#Seminars-and-Breakdowns)
+- [Core Team](#Core-Team)
 
 
 <hr>
@@ -90,8 +90,7 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [From Exploit to Recovery: Unraveling DeFi Incidents with Spreek](https://youtu.be/oIw6DG75-z4) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/From%20Exploit%20to%20Recovery_%20Unraveling%20DeFi%20Incidents.pdf) |
 | [Community Workshop: Zach Obront](https://youtu.be/PPfhIiclupc) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
 | [How to Foundry 2.0](https://youtu.be/EHrvD5c93JU) |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
-| [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf), [Link2](https://github
-
+| [EVM Through HUFF: Devtooligan](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf)
 
 
 <br>
