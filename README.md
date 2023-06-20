@@ -11,7 +11,7 @@
 
 In order to request a security review, please fill out our short [request form](https://airtable.com/shrkxrtMKYJkLaXhT).
 
-For a brief overview of what Spearbit is and what we have to offer click [here(https://twitter.com/SpearbitDAO) or reach out to us via [Twitter](https://twitter.com/SpearbitDAO).
+For a brief overview of what Spearbit is and what we have to offer click [here](https://twitter.com/SpearbitDAO) or reach out to us via [Twitter](https://twitter.com/SpearbitDAO).
 
 If you have any urgent needs or would prefer a direct contact, please reach out to our COO - miike@spearbit.com
 
