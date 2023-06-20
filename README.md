@@ -84,7 +84,7 @@ These spotlights serve to highlight the gems of the web3 security company workin
 | [**Community Workshop: Zach Obront**](https://youtu.be/PPfhIiclupc) |  | [Link](https://github.com/spearbit/portfolio/blob/master/content/slides/Spearbit-Astaria-Workshop.pdf) |
 | [**How to Foundry 2.0**](https://youtu.be/EHrvD5c93JU) |  | [Link](https://github.com/nascentxyz/How-to-Foundry) |
 | [**EVM Through HUFF: Devtooligan**](https://www.youtube.com/watch?v=Rfaabjj7n9k) |  | [Link1](https://github.com/spearbit/portfolio/blob/master/content/slides/Huff-Spearbit-Demo.pdf)
-| [**ZK Series: Intro with Porter Adams**]([https://www.youtube.com/watch?v=ju7m86VG1fw&t=5s](https://youtu.be/QXdoMPzmEbE)) | [Write-up]([https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing](https://paragraph.xyz/@spearbit/demystifying-zkps-with-porter-adams)) | [Slides](https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf) |
+| [**ZK Series: Intro with Porter Adams**](https://youtu.be/QXdoMPzmEbE) | [Write-up]([https://paragraph.xyz/@spearbit/arbiter-evm-logic-simulator-for-security-and-performance-testing) | [Slides](https://github.com/spearbit/portfolio/blob/master/content/slides/SpearbitZK.pdf) |
 | [**Community Workshop: Riley Holterhus**](https://www.youtube.com/watch?v=_pO2jDgL0XE) | | [Slides](/content/slides/Spearbit_Maple_Workshop.pdf) |
 | [**EVM Seminar: 7 things about the EVM**](https://www.youtube.com/watch?v=XhfaG6cYulU)| | [Slides](https://hackmd.io/@axic/7-things-about-the-evm#/)|
 | [**OpenSeacurity with Spearbit**](https://www.youtube.com/watch?v=6snnoEI82N8)| | [Show notes](https://pastebin.com/cv9qdCnd) |
